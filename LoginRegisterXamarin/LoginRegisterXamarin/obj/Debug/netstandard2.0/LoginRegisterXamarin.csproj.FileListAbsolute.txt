@@ -1,0 +1,16 @@
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\bin\Debug\netstandard2.0\LoginRegisterXamarin.deps.json
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\bin\Debug\netstandard2.0\LoginRegisterXamarin.dll
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\bin\Debug\netstandard2.0\ref\LoginRegisterXamarin.dll
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\bin\Debug\netstandard2.0\LoginRegisterXamarin.pdb
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.csprojAssemblyReference.cache
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterTabbedPage.xaml.g.cs
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.AssemblyInfoInputs.cache
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.AssemblyInfo.cs
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.csproj.CoreCompileInputs.cache
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.dll
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\ref\LoginRegisterXamarin.dll
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.pdb
