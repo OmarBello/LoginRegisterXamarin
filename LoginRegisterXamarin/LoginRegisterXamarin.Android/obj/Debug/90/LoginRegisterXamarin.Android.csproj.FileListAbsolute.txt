@@ -474,3 +474,6 @@ C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegis
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.Android\obj\Debug\90\res\drawable\accessibility.png
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.Android\obj\Debug\90\res\drawable\home.png
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.Android\obj\Debug\90\res\drawable\inteclogo.png

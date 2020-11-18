@@ -133,4 +133,13 @@
       <Name>LoginRegisterXamarin</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\accessibility.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\IntecLogo.png" />
+  </ItemGroup>
 </Project>

@@ -17,5 +17,10 @@ namespace LoginRegisterXamarin
         {
             InitializeComponent();
         }
+
+        private void LoginButton_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

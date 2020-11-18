@@ -2,7 +2,6 @@ C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegis
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\bin\Debug\netstandard2.0\LoginRegisterXamarin.dll
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\bin\Debug\netstandard2.0\ref\LoginRegisterXamarin.dll
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\bin\Debug\netstandard2.0\LoginRegisterXamarin.pdb
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.csprojAssemblyReference.cache
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterTabbedPage.xaml.g.cs
@@ -14,3 +13,4 @@ C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegis
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.dll
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\ref\LoginRegisterXamarin.dll
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\LoginRegisterXamarin.pdb
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
