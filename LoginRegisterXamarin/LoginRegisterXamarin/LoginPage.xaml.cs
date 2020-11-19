@@ -1,26 +1,43 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+
 using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
 
 namespace LoginRegisterXamarin
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
-    // by visiting https://aka.ms/xamarinforms-previewer
-    [DesignTimeVisible(false)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class LoginPage : ContentPage
     {
         public LoginPage()
         {
             InitializeComponent();
+            
         }
 
-        private void LoginButton_Clicked(object sender, EventArgs e)
+        private async void LoginButton_Clicked(object sender, EventArgs e)
         {
+            bool isEmailEmpty = string.IsNullOrEmpty(emailEntry.Text);
+            bool isPasswordEmpty = string.IsNullOrEmpty(passwordEntry.Text);
 
+            if(isEmailEmpty || isPasswordEmpty)
+            {
+                await DisplayAlert("Error","Campo Email/Password no pueden estar vacios","OK");
+            }
+            else
+            {
+                await DisplayAlert("Bienvenido", "Hola " + emailEntry.Text,"OK");
+                await Navigation.PushAsync(new HomePage());
+            }
+        }
+
+
+        private async void RegisterButton_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new RegisterPage());
         }
     }
 }

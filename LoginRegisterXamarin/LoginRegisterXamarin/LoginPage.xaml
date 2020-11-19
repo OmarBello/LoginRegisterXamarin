@@ -6,51 +6,56 @@
              mc:Ignorable="d"
              x:Class="LoginRegisterXamarin.LoginPage">
 
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="*"></RowDefinition>
-            <RowDefinition Height="*"></RowDefinition>
-            <RowDefinition Height="*"></RowDefinition>
-            <RowDefinition Height="*"></RowDefinition>
-            <RowDefinition Height="*"></RowDefinition>
-        </Grid.RowDefinitions>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
 
 
-        <Image Source="IntecLogo.png" 
+
+
+            <Image Source="IntecLogo.png" 
                Grid.Row="1"             
                WidthRequest="100"
                HeightRequest="100"
+               Margin="0,80,0,10"
                />
 
-        <StackLayout  Grid.Row="2" Padding="20,0,20,0" >
-            <Entry Placeholder="Email" 
-               Keyboard="Email"
-              />
-            <Entry Placeholder="Password"
-               IsPassword="True"         
-               Grid.Row="3"/>
 
-            <Button x:Name="LoginButton"
+            <StackLayout  Grid.Row="2" Padding="30,0">
+                <Entry x:Name="emailEntry"  
+                   Placeholder="Email" 
+                   Keyboard="Email"
+                   />
+                <Entry x:Name="passwordEntry" 
+                   Placeholder="Password"
+                   IsPassword="True"         
+                  />
+                <Button x:Name="LoginButton"
                     Text="Login"
                     BackgroundColor="Red"
                     TextColor="white"
-                    Grid.Row="4"
                     BorderRadius="10"
                     Clicked="LoginButton_Clicked"/>
 
+                <StackLayout HorizontalOptions="Center" Padding="0,20,0,0">
 
-            <StackLayout HorizontalOptions="Center" Margin="0,30,0,0">
-                <Label Text="Registro"
-                   TextColor="#BA0000"
-                   Grid.Row="5"
-                   FontSize="18"
-                   TextDecorations="Underline"/>
+                    <Button x:Name="RegisterButton"
+                            Text="Registro"
+                            TextColor="#BA0000"
+                            FontSize="13"
+                            Clicked="RegisterButton_Clicked"
+                            BackgroundColor="White"
+                            />
+                </StackLayout>
+                
             </StackLayout>
-           
-        </StackLayout>
-        
-             
 
-    </Grid>
+            
+        </Grid>
+    </ContentPage.Content>
 
 </ContentPage>

@@ -4,12 +4,67 @@
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
-             x:Class="LoginRegisterXamarin.RegisterPage">
-    <ContentPage.Content>
+             x:Class="LoginRegisterXamarin.RegisterPage"
+             >
+
+
+    <NavigationPage.TitleView>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Register"  
+                   HorizontalTextAlignment="Center"
+                   FontSize="20"
+                   Margin="0, 0, 75, 0"/>
         </StackLayout>
+    </NavigationPage.TitleView>
+    <ContentPage.Content>
+
+        <Grid>
+       
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+
+
+
+
+            <Image Source="IntecLogo.png" 
+               Grid.Row="0"             
+               WidthRequest="100"
+               HeightRequest="100"
+               Margin="0,90,0,10"
+               />
+
+
+            <StackLayout  Grid.Row="2" Padding="30,0">
+                <Entry x:Name="nameEntry"  
+                   Placeholder="Name" 
+                   Keyboard="Text"
+                   />
+                <Entry x:Name="emailEntry"  
+                   Placeholder="Email" 
+                   Keyboard="Email"
+                   />
+                <Entry x:Name="passwordEntry" 
+                   Placeholder="Password"
+                   IsPassword="True"         
+                  />
+                <Entry x:Name="confirmpasswordEntry" 
+                   Placeholder="Password"
+                   IsPassword="True"         
+                  />
+                <Button x:Name="registerButton"
+                    Text="Login"
+                    BackgroundColor="Red"
+                    TextColor="white"
+                    BorderRadius="10"
+                    Clicked="registerButton_Clicked"/>
+            </StackLayout>
+
+
+        </Grid>
     </ContentPage.Content>
+
 </ContentPage>

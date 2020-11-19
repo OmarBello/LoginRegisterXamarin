@@ -142,4 +142,13 @@
   <ItemGroup>
     <BundleResource Include="Resources\IntecLogo.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\accountbala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\code.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\changehistory.png" />
+  </ItemGroup>
 </Project>

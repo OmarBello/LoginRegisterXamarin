@@ -1,3 +1,11 @@
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\optimized\
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\LoginRegisterXamarin.iOS.csprojAssemblyReference.cache
+C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\LoginRegisterXamarin.iOS.csproj.CoreCompileInputs.cache
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\bin\iPhone\Debug\LoginRegisterXamarin.iOS.exe
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\bin\iPhone\Debug\LoginRegisterXamarin.iOS.pdb
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
@@ -45,14 +53,6 @@ C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegis
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\bin\iPhone\Debug\LoginRegisterXamarin.pdb
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\optimized\
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\LoginRegisterXamarin.iOS.csprojAssemblyReference.cache
-C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\LoginRegisterXamarin.iOS.csproj.CoreCompileInputs.cache
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\XamlC.stamp
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\LoginRegisterXamarin.iOS.csproj.CopyComplete
 C:\Users\omarb\source\repos\LoginRegisterXamarin\LoginRegisterXamarin\LoginRegisterXamarin.iOS\obj\iPhone\Debug\LoginRegisterXamarin.iOS.exe

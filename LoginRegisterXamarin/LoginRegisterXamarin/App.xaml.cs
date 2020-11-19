@@ -9,8 +9,11 @@ namespace LoginRegisterXamarin
         public App()
         {
             InitializeComponent();
+            var navigationPage = new NavigationPage(new LoginRegisterTabbedPage());
 
-            MainPage = new LoginRegisterTabbedPage();
+            MainPage = navigationPage;
+
+         
         }
 
         protected override void OnStart()
